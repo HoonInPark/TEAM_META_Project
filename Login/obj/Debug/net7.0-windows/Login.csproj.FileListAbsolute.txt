@@ -1,0 +1,64 @@
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\Login.exe
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\Login.deps.json
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\Login.runtimeconfig.json
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\Login.dll
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\Login.pdb
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\ZstdNet.dll
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\comerr64.dll
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\gssapi64.dll
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\k5sprt64.dll
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\krb5_64.dll
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\krbcc64.dll
+C:\Users\a\Desktop\Login\Login\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\Login.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\Login.Form1.resources
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\Login.Form2.resources
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\Login.AssemblyInfo.cs
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\Login.csproj.CopyComplete
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\Login.dll
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\refint\Login.dll
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\Login.pdb
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\Login.genruntimeconfig.cache
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\ref\Login.dll
+C:\Users\a\Desktop\Login\Login\obj\Debug\net7.0-windows\Login.Properties.Resources.resources
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\Login.exe
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\Login.deps.json
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\Login.runtimeconfig.json
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\Login.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\Login.pdb
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\ZstdNet.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\comerr64.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\gssapi64.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\k5sprt64.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\krb5_64.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\krbcc64.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\Login.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\Login.Form1.resources
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\Login.Form2.resources
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\Login.Properties.Resources.resources
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\Login.AssemblyInfo.cs
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\Login.csproj.CopyComplete
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\Login.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\refint\Login.dll
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\Login.pdb
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\Login.genruntimeconfig.cache
+C:\Users\a\Desktop\TEAM META\Login\Login\obj\Debug\net7.0-windows\ref\Login.dll
